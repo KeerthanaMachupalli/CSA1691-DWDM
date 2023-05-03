@@ -6,22 +6,8 @@ c4=c(20,20,21,21,21,21,25,25,25,25,25,28,28,30)
 s1=mean(c2)
 s1
 s2=mean(c3)
-s2
 s3=mean(c4)
 s3
-c5=c(76,35,47,64,95,66,89,36,84,36,84,76,35,47,64,95,66,89,36,84)
-s4=mean(c5)
-s4
-c6=c(51,56,84,60,59,70,63,66,50,51,56,84,60,59,70,63,66,50)
-s5=mean(c6)
-s5
-s6=median(c5)
-s6
-s7=median(c6)
-s7
-s8=range(c6)
-s8
-s9=range(c5)
-s9
-boxplot(c5~c6,xlab = "x values",ylab = "y values",main="sample")
+s2
+
 
